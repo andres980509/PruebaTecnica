@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AndresB\\source\\repos\\PruebaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2B963B-1E60-4816-902C-8202ED972DDA}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\andresb\\source\\repos\\pruebatecnica\\pruebatecnica\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2B963B-1E60-4816-902C-8202ED972DDA}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2B963B-1E60-4816-902C-8202ED972DDA}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\andresb\\source\\repos\\pruebatecnica\\pruebatecnica\\migrations\\20250913061819_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2B963B-1E60-4816-902C-8202ED972DDA}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\migrations\\20250913061819_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2B963B-1E60-4816-902C-8202ED972DDA}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\andresb\\source\\repos\\pruebatecnica\\pruebatecnica\\bd\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2B963B-1E60-4816-902C-8202ED972DDA}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\bd\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2B963B-1E60-4816-902C-8202ED972DDA}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\andresb\\source\\repos\\pruebatecnica\\pruebatecnica\\bd\\corebd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2B963B-1E60-4816-902C-8202ED972DDA}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\bd\\corebd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250913061819_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\AndresB\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Migrations\\20250913061819_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Migrations\\20250913061819_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\AndresB\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Migrations\\20250913061819_InitialCreate.cs",
+              "RelativeToolTip": "PruebaTecnica\\Migrations\\20250913061819_InitialCreate.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:03:13.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoreBD.cs",
+              "DocumentMoniker": "C:\\Users\\AndresB\\source\\repos\\PruebaTecnica\\PruebaTecnica\\BD\\CoreBD.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\BD\\CoreBD.cs",
+              "ToolTip": "C:\\Users\\AndresB\\source\\repos\\PruebaTecnica\\PruebaTecnica\\BD\\CoreBD.cs",
+              "RelativeToolTip": "PruebaTecnica\\BD\\CoreBD.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:54:33.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\AndresB\\source\\repos\\PruebaTecnica\\PruebaTecnica\\BD\\Conexion.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\BD\\Conexion.cs",
+              "ToolTip": "C:\\Users\\AndresB\\source\\repos\\PruebaTecnica\\PruebaTecnica\\BD\\Conexion.cs",
+              "RelativeToolTip": "PruebaTecnica\\BD\\Conexion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:54:15.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\AndresB\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\AndresB\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "PruebaTecnica\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwD0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T06:57:36.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
